@@ -1,0 +1,17 @@
+{
+  "name": "reproduce-hooks-types",
+  "version": "1.0.0",
+  "include": ["index.ts"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "compile": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "phoenix_live_view": "^1.1.7",
+    "typescript": "^5.9.2"
+  }
+}
